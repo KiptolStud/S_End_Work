@@ -1,0 +1,15 @@
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.csproj.AssemblyReference.cache
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.AssemblyInfoInputs.cache
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.AssemblyInfo.cs
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.csproj.CoreCompileInputs.cache
+F:\Учеба\S_End_Wok\bin\Debug\net6.0\S_End_Wok.exe
+F:\Учеба\S_End_Wok\bin\Debug\net6.0\S_End_Wok.deps.json
+F:\Учеба\S_End_Wok\bin\Debug\net6.0\S_End_Wok.runtimeconfig.json
+F:\Учеба\S_End_Wok\bin\Debug\net6.0\S_End_Wok.dll
+F:\Учеба\S_End_Wok\bin\Debug\net6.0\S_End_Wok.pdb
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.dll
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\refint\S_End_Wok.dll
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.pdb
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\S_End_Wok.genruntimeconfig.cache
+F:\Учеба\S_End_Wok\obj\Debug\net6.0\ref\S_End_Wok.dll
